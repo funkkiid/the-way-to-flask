@@ -1,6 +1,8 @@
 The Way To Flask
 =======
 
+> 本开源书 forked from [The Way To Flask](https://github.com/yetship/the-way-to-flask)，作者为 [yetship](https://github.com/yetship)，欢迎大家 star 原作者的 [repo](https://github.com/yetship/the-way-to-flask)，以便获得最新更新，谢谢！
+
 ### 本文目标
 
 通过讲解 Flask 以及它的扩展们，介绍通用用法以及使用过程中的问题和坑，帮助读者使用 Python 编程语言快速得开发健壮的 Web（API）服务端程序。本书在编写之初以及编写过程中始终坚持以下几条原则：
